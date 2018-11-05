@@ -1,0 +1,24 @@
+body,html {width: 100%; height: 100%;}
+body {background-image: 
+	radial-gradient(circle,
+					 #a7adba,
+					 #888f9b, 
+					 #6b737e, 
+					 #4f5761,
+					 #343d46);}
+nav {font-family: 'Concert One', cursive;}
+
+div.bottom {color: #65737e;
+		 	position:absolute;
+		 	bottom: 5px;
+		 	right: 5px;
+		 	font-size: ;
+			font-family: 'Monoton', cursive;}
+
+/*.btn-dark {background-color: #4f5b66}*/
+.btn { border-radius: 15px;
+ 	   font-family: 'Concert One', cursive;
+ 	   border-style: none;
+ 	   font-size: 20px;}
+
+
