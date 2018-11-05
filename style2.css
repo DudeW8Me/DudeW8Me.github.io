@@ -14,3 +14,16 @@ div.bottom {color: #65737e;
 		 	right: 5px;
 		 	font-size: ;
 			font-family: 'Monoton', cursive;}
+
+/*.btn-dark {background-color: #4f5b66}*/
+.btn { text-transform: uppercase;
+ 	   border-radius: 10px;
+ 	   font-family: 'Concert One', cursive;
+ 	   border-style: none;
+ 	   font-size: 20px}
+
+.dropdown2 {position: initial;
+			right: 0px }
+#dropdown-menuZ {position: absolute;
+					right: 0px;
+					left:900px;}
